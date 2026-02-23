@@ -1,0 +1,254 @@
+Now we build something even stronger.
+
+This is not just another restaurant.
+
+This is:
+
+# THE TARRACE RESTAURANT
+
+### Rooftop Restaurant in Lucknow | Aliganj | Engineering College Chauraha
+
+From the positioning alone, we know:
+
+* Rooftop = vibe + skyline + breeze
+* Location specific = strong local discovery traffic
+* Likely date spot + friends hangout + evening place
+
+We position it as:
+
+> “Lucknow’s Elevated Dining Experience.”
+
+Not just rooftop. Elevated.
+
+---
+
+# 🔥 BRAND STRATEGY
+
+## Personality
+
+* Romantic
+* Youthful but premium
+* Instagrammable
+* Night-centric
+* Airy & vibrant
+
+---
+
+# 🎨 BRAND VISUAL DIRECTION
+
+## Color Palette
+
+| Color         | Usage       | Hex     |
+| ------------- | ----------- | ------- |
+| Deep Navy     | Background  | #0B1B2B |
+| Sunset Orange | Accent      | #F4A261 |
+| Soft Peach    | Highlight   | #FFD6A5 |
+| Cloud White   | Text        | #F8F9FA |
+| Slate Grey    | Subtle text | #9CA3AF |
+
+This gives:
+Sky + sunset + rooftop vibe.
+
+---
+
+# 🪧 LOGO CONCEPT
+
+Primary Logo Concept:
+
+“TARRACE” large uppercase serif
+“The” small above
+“Restaurant” thin tracked below
+
+Add a minimal rooftop silhouette line above the wordmark.
+
+Optional icon:
+A thin curved skyline line crossing the top of the name.
+
+Premium. Minimal. Elegant.
+
+---
+
+# 🖥 WEBSITE STRUCTURE (High-Compelling Layout)
+
+---
+
+# HOMEPAGE STRUCTURE
+
+---
+
+## HERO SECTION (Full Screen Rooftop Video)
+
+Visual:
+
+* Evening skyline
+* Warm fairy lights
+* People dining on rooftop
+* Wind-blown candles
+
+Overlay Text:
+
+> Dine Above The Ordinary
+> The Tarrace – Rooftop Dining in Aliganj
+
+Buttons:
+[ Book A Table ]
+[ View Menu ]
+
+---
+
+## SECTION 2 – SOCIAL PROOF
+
+Headline:
+
+> A Rooftop Loved by Lucknow
+
+Add:
+⭐⭐⭐⭐⭐ Google Rating
+“Hundreds of Happy Evenings Served”
+
+Pull review-style quotes like:
+
+> “Perfect rooftop ambience for evening dinners.”
+> “Amazing view and good food.”
+> “Great vibe at Engineering College Chauraha.”
+
+---
+
+## SECTION 3 – THE ROOFTOP EXPERIENCE
+
+Split layout:
+
+Left: Visual of rooftop seating
+Right: Copy
+
+Headline:
+
+Sky Above. Flavor Below.
+
+Copy:
+
+Located in the heart of Aliganj near Engineering College Chauraha, The Tarrace offers an elevated dining experience with open skies, cozy seating, and curated dishes designed for memorable evenings.
+
+Perfect for:
+
+• Date nights
+• Birthday celebrations
+• Friends’ get-togethers
+• Casual luxury evenings
+
+---
+
+## SECTION 4 – SIGNATURE MENU
+
+Grid layout:
+
+* North Indian Classics
+* Chinese & Asian
+* Tandoor Specials
+* Mocktails & Beverages
+* Chef’s Signature Starters
+
+Hover animation:
+Dish rises slightly + warm glow border.
+
+---
+
+## SECTION 5 – WHY TARRACE?
+
+3 Feature Blocks:
+
+🌇 Rooftop Ambience
+🍽️ Multi-Cuisine Menu
+🎉 Ideal Celebration Spot
+
+---
+
+## SECTION 6 – INSTAGRAM WALL
+
+Grid of latest posts
+Hover effect with subtle zoom
+Encourage user-generated content
+
+---
+
+## SECTION 7 – RESERVATION CTA
+
+Sunset gradient background.
+
+Text:
+
+> Reserve Your Evening Under The Sky
+
+Button:
+[ Book Now ]
+
+---
+
+# SEO POSITIONING (VERY IMPORTANT)
+
+Target keywords:
+
+* Rooftop restaurant in Aliganj
+* Rooftop restaurant in Lucknow
+* Restaurant near Engineering College Chauraha
+* Best rooftop cafe in Lucknow
+
+Add structured schema for:
+Local Business
+Restaurant
+Location-based keywords
+
+---
+
+# FULL WEBSITE COPY (Ready to Use)
+
+### Tagline Options
+
+* “Elevate Your Evenings.”
+* “Where Lucknow Meets The Sky.”
+* “Dining With A View.”
+* “Above The City. Beyond The Ordinary.”
+
+---
+
+# TECH STACK (Since You’re Building It)
+
+You’re good with React + UI polish. So:
+
+* React + Tailwind
+* Framer Motion (subtle floating animations)
+* Glassmorphism cards
+* Scroll reveal effects
+* Sticky reservation button
+
+Add:
+
+WhatsApp Booking Integration
+Google Maps embed
+Floating “Call Now” button
+
+---
+
+# PREMIUM DIFFERENTIATOR IDEA
+
+Introduce:
+
+### “Sunset Table Experience”
+
+Pre-reserved table near railing
+Candle setup
+Reserved for 90 minutes
+Premium booking price
+
+This instantly increases perceived exclusivity.
+
+---
+
+# BRAND STATEMENT
+
+The Tarrace should not look like a local restaurant.
+
+It should feel like:
+
+> Lucknow’s Most Instagrammable Rooftop Dining Spot.
+
